@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Lanqing HONG （洪蓝青）
 # About Me
 
 I am currently a senior researcher at Huawei Noah’s Ark Lab, Hong Kong. I obtained my Ph.D. degree from the National University of Singapore, under the supervision of [Dr. Ye Zhisheng](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/). Prior to that, I received my bachelor’s degree from Shanghai Jiao Tong University in 2014. My research interests include Machine Learning and Artificial Intelligence, aiming to build generalizable AI systems from a data-centric perspective.
