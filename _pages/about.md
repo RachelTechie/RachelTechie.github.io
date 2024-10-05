@@ -69,18 +69,6 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
 
 ## 2024
-**<span style="color:black;">• Dual Risk Minimization: Towards Next-Level Robustness in Fine-tuning Zero-Shot Models</span>**
-
-<span style="color:black;">Kaican Li, Weiyan Xie, Yongxiang Huang, Didan Deng, Lanqing Hong, Zhenguo Li, Ricardo Silva, Nevin L. Zhang</span>
-
-<span style="color:black;">Advances in Neural Information Processing Systems (**NeurIPS**), 2024</span>
-
-**<span style="color:black;">• LLMs Can Evolve Continually on Modality for X-Modal Reasoning</span>**
-
-<span style="color:black;">Jiazuo Yu, Haomiao Xiong, Lu Zhang, Haiwen Diao, Yunzhi Zhuge, Lanqing Hong, Dong Wang, Huchuan Lu, You He, Long Chen</span>
-
-<span style="color:black;"> Advances in Neural Information Processing Systems (**NeurIPS**), 2024</span>
-
 **<span style="color:black;">• CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration</span>**
 
 <span style="color:black;">Jiahui Gao, Renjie Pi, Tianyang Han, Han Wu, Lanqing Hong, Lingpeng Kong, Xin Jiang, Zhenguo Li</span>
