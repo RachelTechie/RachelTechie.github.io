@@ -40,12 +40,19 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 # ✨ Projects
 
-# 📝 Publications 
+# 📝 Publications
+## Preprint:
 **<span style="color:black;">EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions</span>**
 
 <span style="color:black;">Kai Chen<sup>\*</sup>, Yunhao Gou<sup>\*</sup>, Runhui Huang<sup>\*</sup>, Zhili Liu<sup>\*</sup>, Daxin Tan<sup>\*</sup>, Jing Xu, Chunwei Wang, Yi Zhu, Yihan Zeng, Kuo Yang, Dingdong Wang, Kun Xiang, Haoyuan Li, Haoli Bai, Jianhua Han, Xiaohui Li, Weike Jin, Nian Xie, Yu Zhang, James T. Kwok, Hengshuang Zhao, Xiaodan Liang, Dit-Yan Yeung, Xiao Chen, Zhenguo Li, Wei Zhang, Qun Liu, Lanqing Hong<sup>†</sup>, Lu Hou<sup>†</sup>, Hang Xu<sup>†</sup></span>
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2409.18042) [<span style="color:blue; text-decoration:underline;">Project</span>](https://emova-ollm.github.io/)
+
+**<span style="color:black;">MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes</span>**
+
+<span style="color:black;">Ruiyuan Gao, Kai Chen, Zhihao Li, Lanqing Hong<sup>†</sup>, Zhenguo Li, Qiang Xu<sup>†</sup></span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2405.14475) [<span style="color:blue; text-decoration:underline;">Project</span>](https://gaoruiyuan.com/magicdrive3d/)
 
 
 
