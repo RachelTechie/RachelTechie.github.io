@@ -69,6 +69,13 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
 
 ## 2024
+**<span style="color:black;">• Dual Risk Minimization: Towards Next-Level Robustness in Fine-tuning Zero-Shot Models</span>**
+
+<span style="color:black;"> Kaican Li, Weiyan Xie, Yongxiang Huang, Didan Deng, Lanqing HONG, Zhenguo Li, Ricardo Silva, Nevin L. Zhang</span>
+
+<span style="color:black;"> Advances in Neural Information Processing Systems (**NeurIPS**), 2024</span>
+
+
 **<span style="color:black;">• CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference</span>**
 
 <span style="color:black;">Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong</span>
