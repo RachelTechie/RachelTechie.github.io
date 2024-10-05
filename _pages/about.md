@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Lanqing HONG
+# Lanqing HONG （洪蓝青）
 # About Me
 
 I am currently a senior researcher at Huawei Noah’s Ark Lab, Hong Kong. I obtained my Ph.D. degree from the National University of Singapore, under the supervision of [Dr. Ye Zhisheng](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/). Prior to that, I received my bachelor’s degree from Shanghai Jiao Tong University in 2014. My research interests include Machine Learning and Artificial Intelligence, aiming to build generalizable AI systems from a data-centric perspective.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 We release [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech abilities, further supporting emotional dialogue. Stay tuned for more details!
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
