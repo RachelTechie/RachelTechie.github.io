@@ -67,13 +67,14 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
 
 ## 2024
-**<span style="color:black;">CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference</span>**
+**<span style="color:black;">Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning</span>**
 
-<span style="color:black;">Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong</span>
+<span style="color:black;">Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang</span>
 
-**<span style="color:black;">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>**
+Presented at <span style="color:black;">**EMNLP** 2023</span>
 
-[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2406.17626)
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
+
 
 
 # 🎖 Professional Services
