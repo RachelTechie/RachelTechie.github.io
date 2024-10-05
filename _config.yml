@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lanqing Hong-Homepage"
+title                    : "Lanqing Hong"
 description              : "Senior Researcher Working on LLMs and Generative Models."
 repository               : "RachelTechie/racheltechie.github.io/"
 google_scholar_stats_use_cdn : true
