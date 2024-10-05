@@ -60,17 +60,17 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 We are now recruiting self-motivated interns / full-time researchers. If you are interested in, please directly send your CV to my email.
 
 ## Current Interns
-- [Chen Kai]( https://kaichen1998.github.io/)(HKUST)
-- [Gao Ruiyuan](https://gaoruiyuan.com/)(CUHK)
-- [Gou Yunhao](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN)( HKUST)
-- [Huang Runhui](https://scholar.google.com/citations?user=B5zcj4wAAAAJ&hl=zh-CN)(HKU)
-- [Li Kaican](https://scholar.google.com/citations?hl=en&user=Mc-lzZMAAAAJ&view_op=list_works&sortby=pubdate)(HKUST)
-- [Liu Zhili](https://scholar.google.com/citations?user=FdR09jsAAAAJ&hl=zh-CN)(HKUST)
-- Zhong Yingji(https://github.com/zhongyingji)(HKUST)
+- [Chen Kai]( https://kaichen1998.github.io/) (HKUST)
+- [Gao Ruiyuan](https://gaoruiyuan.com/) (CUHK)
+- [Gou Yunhao](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN) ( HKUST)
+- [Huang Runhui](https://scholar.google.com/citations?user=B5zcj4wAAAAJ&hl=zh-CN) (HKU)
+- [Li Kaican](https://scholar.google.com/citations?hl=en&user=Mc-lzZMAAAAJ&view_op=list_works&sortby=pubdate) (HKUST)
+- [Liu Zhili](https://scholar.google.com/citations?user=FdR09jsAAAAJ&hl=zh-CN) (HKUST)
+- [Zhong Yingji](https://github.com/zhongyingji) (HKUST)
 
 ## Former Interns
-- [Bai Haoyue](https://haoyuebaizju.github.io/)(University of Wisconsin-Madison)
-- [Hu Shoukang](https://skhu101.github.io/)(Sony AI)
-- [Yu Longhui]( https://yulonghui.github.io/)(Peking University)
-- [Zhang Xinyun](https://yxgnahz.github.io/)(CUHK)
-- [Zhou Kaichen](https://www.cs.ox.ac.uk/people/kaichen.zhou/)(University of Oxford)
+- [Bai Haoyue](https://haoyuebaizju.github.io/) (University of Wisconsin-Madison)
+- [Hu Shoukang](https://skhu101.github.io/) (Sony AI)
+- [Yu Longhui]( https://yulonghui.github.io/) (Peking University)
+- [Zhang Xinyun](https://yxgnahz.github.io/) (CUHK)
+- [Zhou Kaichen](https://www.cs.ox.ac.uk/people/kaichen.zhou/) (University of Oxford)
