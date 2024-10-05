@@ -17,10 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 💬 About Me
 
-I am currently a senior researcher at Huawei Noah’s Ark Lab, Hong Kong. I obtained my Ph.D. degree from the National University of Singapore, under the supervision of [Dr. Ye Zhisheng](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/). Prior to that, I received my bachelor’s degree from Shanghai Jiao Tong University in 2014. My research interests include Machine Learning and Artificial Intelligence, aiming to build generalizable AI systems from a data-centric perspective.
+I am currently a senior researcher at Huawei Noah’s Ark Lab in Hong Kong. I obtained my Ph.D. degree from the National University of Singapore in 2018, under the supervision of [Dr. Ye Zhisheng](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/). Prior to that, I received my bachelor’s degree from Shanghai Jiao Tong University in 2014.
 
+My group focuses on Machine Learning and Artificial Intelligence, aiming to build generalizable AI systems from a data-centric perspective. Our mission is to understand the power and limitations of existing models, explore their corner cases, and develop efficient next-generation models and algorithms. Representative projects include:
+
+- **Omi-modal Large Language Model**: [EMOVA](https://emova-ollm.github.io/)
+- **Alignment of LLMs and MLLMs**: [Mistake Analysis]( https://arxiv.org/abs/2310.10477), [CoSafe]( https://arxiv.org/abs/2406.17626), [ECSO]( https://gyhdog99.github.io/projects/ecso/), 
+- **Corner Case Perception and Generation**: [GeoDiffusion]( https://kaichen1998.github.io/projects/geodiffusion/), [MagicDrive]( https://gaoruiyuan.com/magicdrive/), [DetDiffusion]( https://arxiv.org/abs/2403.13304), [CODA]( https://coda-dataset.github.io/index.html)
+- **Out-of-distribution Generalization**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning]( https://arxiv.org/abs/2104.12081), [MixedAE]( https://arxiv.org/abs/2303.17152), [MultiSiam](https://arxiv.org/abs/2108.12178)
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 We release [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech abilities, further supporting emotional dialogue. Stay tuned for more details!
@@ -46,10 +52,6 @@ I am currently a senior researcher at Huawei Noah’s Ark Lab, Hong Kong. I obta
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 🌐 Interns
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
