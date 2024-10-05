@@ -29,8 +29,14 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 - **Out-of-distribution Generalization**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning]( https://arxiv.org/abs/2104.12081), [MixedAE]( https://arxiv.org/abs/2303.17152), [MultiSiam](https://arxiv.org/abs/2108.12178)
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 We release [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech abilities, further supporting emotional dialogue. Stay tuned for more details!
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 We have released [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech capabilities, further supporting emotional dialogue. Stay tuned for more details!
+- *2024.09*: We hosted the Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving: Towards Next-Generation Solutions ([W-CODA]( https://coda-dataset.github.io/w-coda2024/)) at ECCV 2024 in Milan, Italy!
+- *2024.09*: Two papers accepted by NeurIPS 2024!
+- *2024.09*: One paper accepted by EMNLP 2024!
+- *2024.07*: Two papers accepted by ECCV 2024!
+- *2024.02*: Two papers accepted by CVPR 2024!
+- *2024.02*: Code and checkpoints of [GeoDiffusion]( https://kaichen1998.github.io/projects/geodiffusion/) and [MagicDrive](https://gaoruiyuan.com/magicdrive/) have been released. Welcome to try!
+- *2024.01*: Three papers accepted by ICLR 2024! See you in Vienna!
 
 # ✨ Selected Projects
 
