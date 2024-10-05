@@ -115,6 +115,7 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2306.04607) [<span style="color:blue; text-decoration:underline;">Project</span>](https://kaichen1998.github.io/projects/geodiffusion/)
 
+The full publication list can be found on [Google Scholar](https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en).
 
 # 🎖 Professional Services
 - Industrial Chair of [3DV 2025]( https://3dvconf.github.io/2025/people/)
