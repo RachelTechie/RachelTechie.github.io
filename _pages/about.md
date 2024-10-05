@@ -19,12 +19,12 @@ redirect_from:
 
 # 💬 About Me
 
-I am currently a senior researcher at Huawei Noah’s Ark Lab in Hong Kong. I obtained my Ph.D. degree from the National University of Singapore in 2018, under the supervision of [Dr. Ye Zhisheng](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/). Prior to that, I received my bachelor’s degree from Shanghai Jiao Tong University in 2014.
+I am currently a senior researcher at Huawei Noah’s Ark Lab in Hong Kong. I obtained my Ph.D. from the National University of Singapore in 2018, where I was awarded the [National Semiconductor Gold Medal](https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal.). Prior to that, I received my bachelor's degree from Shanghai Jiao Tong University in 2014.
 
 My group focuses on Machine Learning and Artificial Intelligence, aiming to build generalizable AI systems from a data-centric perspective. Our mission is to understand the power and limitations of existing models, explore their corner cases, and develop efficient next-generation models and algorithms. Representative projects include:
 
 - **Omi-modal Large Language Model**: [EMOVA](https://emova-ollm.github.io/)
-- **Alignment of LLMs and MLLMs**: [Mistake Analysis]( https://arxiv.org/abs/2310.10477), [CoSafe]( https://arxiv.org/abs/2406.17626), [ECSO]( https://gyhdog99.github.io/projects/ecso/), 
+- **Alignment of LLMs and MLLMs**: [Mistake Analysis]( https://arxiv.org/abs/2310.10477), [CoSafe]( https://arxiv.org/abs/2406.17626), [ECSO]( https://gyhdog99.github.io/projects/ecso/)
 - **Corner Case Perception and Generation**: [GeoDiffusion]( https://kaichen1998.github.io/projects/geodiffusion/), [MagicDrive]( https://gaoruiyuan.com/magicdrive/), [DetDiffusion]( https://arxiv.org/abs/2403.13304), [CODA]( https://coda-dataset.github.io/index.html)
 - **Out-of-distribution Generalization**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning]( https://arxiv.org/abs/2104.12081), [MixedAE]( https://arxiv.org/abs/2303.17152), [MultiSiam](https://arxiv.org/abs/2108.12178)
 
