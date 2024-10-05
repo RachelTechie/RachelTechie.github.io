@@ -33,6 +33,7 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 - *2024.09*: We hosted the Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving: Towards Next-Generation Solutions ([W-CODA]( https://coda-dataset.github.io/w-coda2024/)) at ECCV 2024 in Milan, Italy!
 - *2024.09*: Two papers accepted by NeurIPS 2024!
 - *2024.09*: One paper accepted by EMNLP 2024!
+- *2024.08*: One paper accepted by COLM 2024!
 - *2024.07*: Two papers accepted by ECCV 2024!
 - *2024.02*: Two papers accepted by CVPR 2024!
 - *2024.02*: Code and checkpoints of [GeoDiffusion]( https://kaichen1998.github.io/projects/geodiffusion/) and [MagicDrive](https://gaoruiyuan.com/magicdrive/) have been released. Welcome to try!
