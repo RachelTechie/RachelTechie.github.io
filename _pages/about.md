@@ -71,7 +71,7 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 <span style="color:black;">Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong</span>
 
-Published in <span style="color:black;">Empirical Methods in Natural Language Processing (**EMNLP**), 2024</span>
+<span style="color:black;">Empirical Methods in Natural Language Processing (**EMNLP**), 2024</span>
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2406.17626)
 
