@@ -32,7 +32,7 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 - *2024.09*: &nbsp;🎉🎉 We release [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech abilities, further supporting emotional dialogue. Stay tuned for more details!
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# Projects
+# ✨ Selected Projects
 
 # 📝 Publications 
 
