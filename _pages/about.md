@@ -55,7 +55,7 @@ We are now recruiting self-motivated interns / full-time researchers. If you are
 ## Current Interns
 - [Chen Kai]( https://kaichen1998.github.io/) (HKUST)
 - [Gao Ruiyuan](https://gaoruiyuan.com/) (CUHK)
-- [Gou Yunhao](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN) ( HKUST)
+- [Gou Yunhao](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN) (HKUST)
 - [Huang Runhui](https://scholar.google.com/citations?user=B5zcj4wAAAAJ&hl=zh-CN) (HKU)
 - [Li Kaican](https://scholar.google.com/citations?hl=en&user=Mc-lzZMAAAAJ&view_op=list_works&sortby=pubdate) (HKUST)
 - [Liu Zhili](https://scholar.google.com/citations?user=FdR09jsAAAAJ&hl=zh-CN) (HKUST)
