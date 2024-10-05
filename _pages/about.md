@@ -41,6 +41,11 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 # ✨ Projects
 
 # 📝 Publications 
+**<span style="color:blue;">EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions</span>**
+
+<span style="color:black;">Kai Chen, Yunhao Gou, Runhui Huang, Zhili Liu, Daxin Tan, Jing Xu, Chunwei Wang, Yi Zhu, Yihan Zeng, Kuo Yang, Dingdong Wang, Kun Xiang, Haoyuan Li, Haoli Bai, Jianhua Han, Xiaohui Li, Weike Jin, Nian Xie, Yu Zhang, James T. Kwok, Hengshuang Zhao, Xiaodan Liang, Dit-Yan Yeung, Xiao Chen, Zhenguo Li, Wei Zhang, Qun Liu, Lanqing Hong, Lu Hou, Hang Xu</span>
+
+[<span style="color:green;">Paper</span>](https://arxiv.org/abs/2409.18042) [<span style="color:green;">Project</span>](https://emova-ollm.github.io/)
 
 
 # 🎖 Professional Services
