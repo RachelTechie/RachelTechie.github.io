@@ -60,6 +60,13 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2404.10595)
 
+**<span style="color:black;">Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning</span>**
+
+<span style="color:black;">Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
+
+
 
 # 🎖 Professional Services
 - Industrial Chair of [3DV 2025]( https://3dvconf.github.io/2025/people/)
