@@ -40,7 +40,8 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 # ✨ Projects
 
-# 📝 Publications
+# 📝 Recent Publications
+The full publication list can be found on [Google Scholar](https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en).
 ## Preprint:
 **<span style="color:black;">• EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions</span>**
 
@@ -114,8 +115,6 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 <span style="color:black;">International Conference on Learning Representations (**ICLR**), 2024</span>
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2306.04607) [<span style="color:blue; text-decoration:underline;">Project</span>](https://kaichen1998.github.io/projects/geodiffusion/)
-
-The full publication list can be found on [Google Scholar](https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en).
 
 # 🎖 Professional Services
 - Industrial Chair of [3DV 2025]( https://3dvconf.github.io/2025/people/)
