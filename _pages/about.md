@@ -49,8 +49,10 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Professional Services
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Industrial Chair of [3DV 2025]( https://3dvconf.github.io/2025/people/)
+- Senior Program Committee Members of IJCAI [2023]( https://ijcai-23.org/spc-member-list/), 2024
+- Organizer of ECCV Workshop [W-CODA]( https://coda-dataset.github.io/w-coda2024/)
+- Reviewer of TPAMI, ICLR, NeurIPS, CVPR, ECCV, ICCV, etc.
 
 # 🌐 Interns
 ## Current Interns
