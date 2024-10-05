@@ -67,13 +67,13 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
 
 ## 2024
-**<span style="color:black;">Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning</span>**
+**<span style="color:black;">CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference</span>**
 
-<span style="color:black;">Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang</span>
+<span style="color:black;">Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong</span>
 
-Presented at <span style="color:black;">**EMNLP** 2023</span>
+Published in <span style="color:black;">Empirical Methods in Natural Language Processing (**EMNLP**), 2024</span>
 
-[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2406.17626)
 
 
 
@@ -84,20 +84,20 @@ Presented at <span style="color:black;">**EMNLP** 2023</span>
 - Reviewer of TPAMI, ICLR, NeurIPS, CVPR, ECCV, ICCV, etc.
 
 # 🌐 Internship Opportunities
-We are now recruiting self-motivated interns / full-time researchers. If you are interested in, please directly send your CV to my email.
+We are now recruiting self-motivated interns/full-time researchers. If you are interested in, please directly send your CV to my email.
 
 ## Current Interns
-- [Chen Kai]( https://kaichen1998.github.io/) (HKUST)
-- [Gao Ruiyuan](https://gaoruiyuan.com/) (CUHK)
-- [Gou Yunhao](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN) (HKUST)
-- [Huang Runhui](https://scholar.google.com/citations?user=B5zcj4wAAAAJ&hl=zh-CN) (HKU)
-- [Li Kaican](https://scholar.google.com/citations?hl=en&user=Mc-lzZMAAAAJ&view_op=list_works&sortby=pubdate) (HKUST)
-- [Liu Zhili](https://scholar.google.com/citations?user=FdR09jsAAAAJ&hl=zh-CN) (HKUST)
-- [Zhong Yingji](https://github.com/zhongyingji) (HKUST)
+- [Kai CHEN]( https://kaichen1998.github.io/) (HKUST)
+- [Ruiyuan GAO](https://gaoruiyuan.com/) (CUHK)
+- [Yunhao GOU](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN) (HKUST)
+- [Runhui HUANG](https://scholar.google.com/citations?user=B5zcj4wAAAAJ&hl=zh-CN) (HKU)
+- [Kaican LI](https://scholar.google.com/citations?hl=en&user=Mc-lzZMAAAAJ&view_op=list_works&sortby=pubdate) (HKUST)
+- [Zhili LIU](https://scholar.google.com/citations?user=FdR09jsAAAAJ&hl=zh-CN) (HKUST)
+- [Yingji ZHONG](https://github.com/zhongyingji) (HKUST)
 
 ## Former Interns
-- [Bai Haoyue](https://haoyuebaizju.github.io/) (University of Wisconsin-Madison)
-- [Hu Shoukang](https://skhu101.github.io/) (Sony AI)
-- [Yu Longhui]( https://yulonghui.github.io/) (Peking University)
-- [Zhang Xinyun](https://yxgnahz.github.io/) (CUHK)
-- [Zhou Kaichen](https://www.cs.ox.ac.uk/people/kaichen.zhou/) (University of Oxford)
+- [Haoyue BAI](https://haoyuebaizju.github.io/) (University of Wisconsin-Madison)
+- [Shoukang HU](https://skhu101.github.io/) (Sony AI)
+- [Longhui YU]( https://yulonghui.github.io/) (Peking University)
+- [Xinyun ZHANG](https://yxgnahz.github.io/) (CUHK)
+- [Kaichen ZHOU](https://www.cs.ox.ac.uk/people/kaichen.zhou/) (University of Oxford)
