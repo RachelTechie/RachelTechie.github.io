@@ -19,7 +19,7 @@ redirect_from:
 
 I am a senior researcher at Huawei Noah's Ark Lab. I obtained my Ph.D. degree from the National University of Singapore, under the supervision of [Dr. Ye Zhisheng](https://cde.nus.edu.sg/isem/staff/ye-zhisheng/). Prior to that, I received my bachelor's degree from Shanghai Jiao Tong University in 2014.
 
-My research interest includes machine learning and computer vision. I have published more than 50 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=2p7x6OUAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+My research interest includes machine learning and computer vision. I have published more than 50 papers at the top international AI conferences.
 
 
 # 🔥 News
