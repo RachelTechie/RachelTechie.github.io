@@ -38,7 +38,7 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 - *2024.02*: Code and checkpoints of [GeoDiffusion]( https://kaichen1998.github.io/projects/geodiffusion/) and [MagicDrive](https://gaoruiyuan.com/magicdrive/) have been released. Welcome to try!
 - *2024.01*: Three papers accepted by ICLR 2024! See you in Vienna!
 
-# ✨ Projects
+# ✨ Selected Projects
 
 # 📝 Recent Publications
 The full publication list can be found on [Google Scholar](https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en).
