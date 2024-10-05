@@ -89,7 +89,7 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 <span style="color:black;">European Conference on Computer Vision (**ECCV**), 2024</span>
 
-[<span style="color:blue; text-decoration:underline;">Paper</span>](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03200.pdf)
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2310.05873)
 
 **<span style="color:black;">• Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis</span>**
 
