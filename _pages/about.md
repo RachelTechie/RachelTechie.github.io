@@ -54,6 +54,11 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2405.14475) [<span style="color:blue; text-decoration:underline;">Project</span>](https://gaoruiyuan.com/magicdrive3d/)
 
+**<span style="color:black;">Automated Evaluation of Large Vision-Language Models on Self-Driving Corner Cases</span>**
+
+<span style="color:black;">Kai Chen<sup>\*</sup>, Yanze Li<sup>\*</sup>, Wenhua Zhang<sup>\*</sup>, Yanxin Liu, Pengxiang Li, Ruiyuan Gao, Lanqing Hong<sup>†</sup>, Meng Tian, Xinhai Zhao, Zhenguo Li, Dit-Yan Yeung, Huchuan Lu, Xu Jia<sup>†</sup></span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2404.10595)
 
 
 # 🎖 Professional Services
