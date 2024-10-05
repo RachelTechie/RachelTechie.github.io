@@ -103,9 +103,18 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 <span style="color:black;">Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang Xu</span>
 
-Presented at <span style="color:black;">International Conference on Learning Representations (**ICLR**), 2024</span>
+<span style="color:black;">International Conference on Learning Representations (**ICLR**), 2024</span>
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2310.02601) [<span style="color:blue; text-decoration:underline;">Project</span>](https://gaoruiyuan.com/magicdrive/)
+
+**<span style="color:black;">• GeoDiffusion: Text-Prompted Geometric Control for Object Detection Data Generation</span>**
+
+<span style="color:black;">Kai Chen<sup>\*</sup>, Enze Xie<sup>\*</sup>, Zhe Chen, Yibo Wang, Lanqing Hong<sup>†</sup>, Zhenguo Li, Dit-Yan Yeung</span>
+
+<span style="color:black;">International Conference on Learning Representations (**ICLR**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2306.04607) [<span style="color:blue; text-decoration:underline;">Project</span>](https://kaichen1998.github.io/projects/geodiffusion/)
+
 
 # 🎖 Professional Services
 - Industrial Chair of [3DV 2025]( https://3dvconf.github.io/2025/people/)
