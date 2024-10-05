@@ -67,7 +67,7 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
 
 ## 2024
-**<span style="color:black;">CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference</span>**
+**<span style="color:black;">• CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference</span>**
 
 <span style="color:black;">Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong</span>
 
@@ -75,7 +75,37 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2406.17626)
 
+**<span style="color:black;">• Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation</span>**
 
+<span style="color:black;">Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang</span>
+
+<span style="color:black;">European Conference on Computer Vision (**ECCV**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2403.09572) [<span style="color:blue; text-decoration:underline;">Project</span>](https://gyhdog99.github.io/projects/ecso/)
+
+**<span style="color:black;">• Implicit Concept Removal of Diffusion Models</span>**
+
+<span style="color:black;">Zhili Liu, Kai Chen, Yifan Zhang, Jianhua Han, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, and James T. Kwok</span>
+
+<span style="color:black;">European Conference on Computer Vision (**ECCV**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03200.pdf)
+
+**<span style="color:black;">• Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis</span>**
+
+<span style="color:black;">Kai Chen<sup>\*</sup>, Chunwei Wang<sup>\*</sup>, Kuo Yang, Jianhua Han, Lanqing Hong<sup>†</sup>, Fei Mi<sup>†</sup>, Hang Xu, Zhengying Liu, Wenyong Huang, Zhenguo Li, Dit-Yan Yeung, Lifeng Shang, Xin Jiang, Qun Liu</span>
+
+<span style="color:black;">International Conference on Learning Representations (**ICLR**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2310.10477)
+
+**<span style="color:black;">• MagicDrive: Street View Generation with Diverse 3D Geometry Control</span>**
+
+<span style="color:black;">Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang Xu</span>
+
+Presented at <span style="color:black;">International Conference on Learning Representations (**ICLR**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2310.02601) [<span style="color:blue; text-decoration:underline;">Project</span>](https://gaoruiyuan.com/magicdrive/)
 
 # 🎖 Professional Services
 - Industrial Chair of [3DV 2025]( https://3dvconf.github.io/2025/people/)
