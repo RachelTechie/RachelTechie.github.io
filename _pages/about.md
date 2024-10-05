@@ -66,6 +66,14 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
 
+## 2024
+**<span style="color:black;">CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference</span>**
+
+<span style="color:black;">Erxin Yu, Jing Li, Ming Liao, Siqi Wang, Zuchen Gao, Fei Mi, Lanqing Hong</span>
+
+**<span style="color:black;">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>**
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2406.17626)
 
 
 # 🎖 Professional Services
