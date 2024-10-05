@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Selected Projects"
+    url: "/#-selected-projects"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Recent Publications"
+    url: "/#-recent-publications"
 
   - title: "Professional Services"
     url: "/#-professional-services"
