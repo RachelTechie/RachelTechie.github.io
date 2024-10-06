@@ -77,13 +77,6 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2312.12379)
 
 ## 2024
-**<span style="color:black;">• CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration</span>**
-
-<span style="color:black;">Jiahui Gao, Renjie Pi, Tianyang Han, Han Wu, Lanqing Hong, Lingpeng Kong, Xin Jiang, Zhenguo Li</span>
-
-<span style="color:black;"> Conference on Language Modeling (**COLM**), 2024</span>
-
-[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2409.11365)
 
 **<span style="color:black;">• CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference</span>**
 
@@ -92,6 +85,14 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 <span style="color:black;">Empirical Methods in Natural Language Processing (**EMNLP**), 2024</span>
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2406.17626)
+
+**<span style="color:black;">• CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration</span>**
+
+<span style="color:black;">Jiahui Gao, Renjie Pi, Tianyang Han, Han Wu, Lanqing Hong, Lingpeng Kong, Xin Jiang, Zhenguo Li</span>
+
+<span style="color:black;"> Conference on Language Modeling (**COLM**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2409.11365)
 
 **<span style="color:black;">• Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation</span>**
 
