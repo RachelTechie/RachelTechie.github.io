@@ -42,10 +42,10 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 # ✨ Selected Projects
 
 ## Generalization of Deep Learning Models
-| ![500x300.png](images/500x300.png) | - **Proposed a multi-dimensional out-of-distribution (OOD) generalization benchmark**, addressing OOD generalization challenges across three dimensions: training data, paradigms, and model architectures. Published works include [OOD-Bench (CVPR Oral)](link-to-ood-bench), [NAS-OOD (ICCV)](link-to-nas-ood), and [DecAug (AAAI)](link-to-decaug), among others. |
-| --- | --- |
-| ![500x300.png]images/500x300.png) | - **Explored improving model generalization through self-supervised learning**, with methods such as [MultiSiam (ICCV)](link-to-multisiam) and [MixedAE (CVPR)](link-to-mixedae) for complex multi-instance scenarios, [MoCE (ICLR Spotlight)](link-to-moce) for task-customized self-supervision, continuous self-supervised learning [(ICLR)](link-to-continuous-ss-learning), and [SADE (NeurIPS)](link-to-sade) for multi-expert integration. |
-| | - **Widely cited by prominent researchers**, including [Kaiming He](link-to-kaiming-he-profile) and [Percy Liang](link-to-percy-liang-profile); featured by [Synced](link-to-synced-article) and [AI Era](link-to-ai-era-article). Algorithms applied in Huawei Music to decouple irrelevant user features, effectively reducing the "Matthew Effect" in recommendation systems. |
+| ![500x300.png](images/500x300.png) ![500x300.png](images/500x300.png) | **Proposed a multi-dimensional out-of-distribution (OOD) generalization benchmark**, addressing OOD generalization challenges across three dimensions: training data, paradigms, and model architectures. Published works include [OOD-Bench (CVPR Oral)](link-to-ood-bench), [NAS-OOD (ICCV)](link-to-nas-ood), and [DecAug (AAAI)](link-to-decaug), among others. |
+| :---: | :--- |
+| | **Explored improving model generalization through self-supervised learning**, with methods such as [MultiSiam (ICCV)](link-to-multisiam) and [MixedAE (CVPR)](link-to-mixedae) for complex multi-instance scenarios, [MoCE (ICLR Spotlight)](link-to-moce) for task-customized self-supervision, continuous self-supervised learning [(ICLR)](link-to-continuous-ss-learning), and [SADE (NeurIPS)](link-to-sade) for multi-expert integration. |
+| | **Widely cited by prominent researchers**, including [Kaiming He](link-to-kaiming-he-profile) and [Percy Liang](link-to-percy-liang-profile); featured by [Synced](link-to-synced-article) and [AI Era](link-to-ai-era-article). Algorithms applied in Huawei Music to decouple irrelevant user features, effectively reducing the "Matthew Effect" in recommendation systems. |
 
 # 📝 Recent Publications
 The full publication list can be found on [Google Scholar](https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en).
