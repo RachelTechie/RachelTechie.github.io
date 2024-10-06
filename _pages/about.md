@@ -42,11 +42,9 @@ My group focuses on Machine Learning and Artificial Intelligence, aiming to buil
 # ✨ Selected Projects
 
 ## Generalization of Deep Learning Models
-| ![500x300.png](images/500x300.png) |
-| :---: |
-| **Proposed a multi-dimensional out-of-distribution (OOD) generalization benchmark**, addressing OOD generalization challenges across three dimensions: training data, paradigms, and model architectures. Published works include [OOD-Bench (CVPR Oral)](link-to-ood-bench), [NAS-OOD (ICCV)](link-to-nas-ood), and [DecAug (AAAI)](link-to-decaug), among others. |
-| **Explored improving model generalization through self-supervised learning**, with methods such as [MultiSiam (ICCV)](link-to-multisiam) and [MixedAE (CVPR)](link-to-mixedae) for complex multi-instance scenarios, [MoCE (ICLR Spotlight)](link-to-moce) for task-customized self-supervision, continuous self-supervised learning [(ICLR)](link-to-continuous-ss-learning), and [SADE (NeurIPS)](link-to-sade) for multi-expert integration. |
-| **Widely cited by prominent researchers**, including [Kaiming He](link-to-kaiming-he-profile) and [Percy Liang](link-to-percy-liang-profile); featured by [Synced](link-to-synced-article) and [AI Era](link-to-ai-era-article). Algorithms applied in Huawei Music to decouple irrelevant user features, effectively reducing the "Matthew Effect" in recommendation systems. |
+-	Proposed a multi-dimensional out-of-distribution (OOD) generalization benchmark, addressing OOD generalization challenges across three dimensions: training data, paradigms, and model architectures. Published works include [OOD-Bench](https://arxiv.org/abs/2106.03721) (CVPR Oral), [NAS-OOD](https://arxiv.org/abs/2109.02038) (ICCV), and [DecAug](https://arxiv.org/abs/2012.09382) (AAAI), among others.
+-	Explored improving model generalization through self-supervised learning (SSL), with methods such as [MultiSiam](https://arxiv.org/abs/2108.12178) (ICCV) and [MixedAE](https://arxiv.org/abs/2303.17152) (CVPR) for complex multi-instance scenarios, [MoCE](https://arxiv.org/abs/2402.05382) (ICLR Spotlight) for task-customized SSL, [Continual SSL](https://arxiv.org/abs/2104.12081) (ICLR), and [SADE](https://arxiv.org/abs/2107.09249) (NeurIPS) for SSL multi-expert integration.
+-	Widely cited by prominent researchers, including [Kaiming He](https://arxiv.org/abs/2401.14404) and [Percy Liang](https://arxiv.org/abs/2108.07258); featured by Synced and AI Era. Algorithms applied in Huawei Music to decouple irrelevant user features, effectively reducing the "Matthew Effect" in recommendation systems.
 
 # 📝 Recent Publications
 The full publication list can be found on [Google Scholar](https://scholar.google.com.sg/citations?user=2p7x6OUAAAAJ&hl=en).
