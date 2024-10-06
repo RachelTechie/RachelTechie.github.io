@@ -35,7 +35,7 @@ My group focuses on building generalizable AI systems from a data-centric perspe
 - *2024.09*: One paper accepted by EMNLP 2024!
 - *2024.08*: One paper accepted by COLM 2024!
 - *2024.07*: Two papers accepted by ECCV 2024!
-- *2024.06*: &nbsp;🎉🎉 [MagicDrive](https://gaoruiyuan.com/magicdrive/), as a core feature of [Pangu Large Model 5.0](https://www.huaweicloud.com/news/2024/20240621000945888.html), was unveiled at Huawei Developer Conference 2024 ([HDC 2024](https://developer.huawei.com/home/en/hdc/hdc2024.html))!
+- *2024.06*: &nbsp;🎉🎉 [MagicDrive](https://gaoruiyuan.com/magicdrive/), as a core feature of [Pangu Large Model 5.0](https://www.huaweicloud.com/news/2024/20240621000945888.html), was unveiled at Huawei Developer Conference 2024 ([HDC 2024](https://developer.huawei.com/home/en/hdc/hdc2024.html))! ([see details](https://gaoruiyuan.com/news/hdc2024/))
 - *2024.02*: Two papers accepted by CVPR 2024!
 - *2024.01*: Three papers accepted by ICLR 2024! See you in Vienna!
 
