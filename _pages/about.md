@@ -19,7 +19,7 @@ redirect_from:
 
 # 💬 About Me
 
-I am currently a senior researcher at Huawei Noah’s Ark Lab in Hong Kong, working on LLMs, MLLMs, and generative models. I obtained my Ph.D. from the National University of Singapore in 2018, receiving the [National Semiconductor Gold Medal](https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal.). Prior to that, I received my bachelor's degree from Shanghai Jiao Tong University in 2014.
+I am currently a senior researcher at Huawei Noah’s Ark Lab in Hong Kong, working on LLMs, MLLMs, and generative models. I obtained my Ph.D. from National University of Singapore in 2018, receiving [National Semiconductor Gold Medal](https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal.). Prior to that, I received my bachelor's degree from Shanghai Jiao Tong University in 2014.
 
 My group focuses on building generalizable AI systems from a data-centric perspective. Our mission is to understand the power and limitations of existing models, explore their corner cases, and propose efficient next-generation models and algorithms. Representative projects include:
 
