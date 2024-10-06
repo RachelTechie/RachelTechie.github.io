@@ -109,6 +109,22 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2310.05873)
 
+**<span style="color:black;">• CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs</span>**
+
+<span style="color:black;">Yingji Zhong, Lanqing Hong, Zhenguo Li, Dan Xu</span>
+
+<span style="color:black;">Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2403.16885)
+
+**<span style="color:black;">• DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception</span>**
+
+<span style="color:black;">Yibo Wang<sup>*</sup>, Ruiyuan Gao<sup>*</sup>, Kai Chen<sup>*</sup>, Kaiqiang Zhou, Yingjie Cai, Lanqing Hong, Zhenguo Li, Lihui Jiang, Dit-Yan Yeung, Qiang Xu, Kai Zhang</span>
+
+<span style="color:black;">Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024</span>
+
+[<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/abs/2403.13304)
+
 **<span style="color:black;">• Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis</span>**
 
 <span style="color:black;">Kai Chen<sup>\*</sup>, Chunwei Wang<sup>\*</sup>, Kuo Yang, Jianhua Han, Lanqing Hong<sup>†</sup>, Fei Mi<sup>†</sup>, Hang Xu, Zhengying Liu, Wenyong Huang, Zhenguo Li, Dit-Yan Yeung, Lifeng Shang, Xin Jiang, Qun Liu</span>
@@ -119,7 +135,7 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 
 **<span style="color:black;">• MagicDrive: Street View Generation with Diverse 3D Geometry Control</span>**
 
-<span style="color:black;">Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang Xu</span>
+<span style="color:black;">Ruiyuan Gao<sup>\*</sup>, Kai Chen<sup>\*</sup>, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang Xu</span>
 
 <span style="color:black;">International Conference on Learning Representations (**ICLR**), 2024</span>
 
