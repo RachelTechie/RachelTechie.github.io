@@ -25,7 +25,7 @@ My group focuses on building generalizable AI systems from a data-centric perspe
 
 - **Omi-modal Large Language Model**: [EMOVA](https://emova-ollm.github.io/)
 - **Alignment of LLMs and MLLMs**: [Mistake Analysis](https://arxiv.org/abs/2310.10477), [CoSafe](https://arxiv.org/abs/2406.17626), [ECSO](https://gyhdog99.github.io/projects/ecso/)
-- **Corner Case Perception and Generation for Self-Driving**: [GeoDiffusion](https://kaichen1998.github.io/projects/geodiffusion/), [MagicDrive](https://gaoruiyuan.com/magicdrive/), [CODA]( https://coda-dataset.github.io/index.html)
+- **Corner Case Perception and Generation for Self-Driving**: [MagicDrive](https://gaoruiyuan.com/magicdrive/), [GeoDiffusion](https://kaichen1998.github.io/projects/geodiffusion/), [CODA]( https://coda-dataset.github.io/index.html)
 - **Generalization of Deep Learning Models**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning](https://arxiv.org/abs/2104.12081), [MixedAE](https://arxiv.org/abs/2303.17152)
 
 # 🔥 News
