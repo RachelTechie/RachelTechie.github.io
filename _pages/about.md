@@ -30,7 +30,7 @@ My group focuses on building generalizable AI systems from a data-centric perspe
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 We have released [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech capabilities, further supporting emotional dialogue. Stay tuned for more details!
-- *2024.09*: We hosted the ECCV Workshop "Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving: Towards Next-Generation Solutions ([W-CODA]( https://coda-dataset.github.io/w-coda2024/))" in Milan, Italy!
+- *2024.09*: We hosted the ECCV Workshop "Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving: Towards Next-Generation Solutions" ([W-CODA]( https://coda-dataset.github.io/w-coda2024/)) in Milan, Italy!
 - *2024.09*: Two papers accepted by NeurIPS 2024!
 - *2024.09*: One paper accepted by EMNLP 2024!
 - *2024.08*: One paper accepted by COLM 2024!
