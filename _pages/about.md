@@ -160,18 +160,18 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 We are now recruiting self-motivated interns/full-time researchers. If you are interested in, please directly send your CV to my email.
 
 ## Current Interns
-- [Kai CHEN]( https://kaichen1998.github.io/) (HKUST)
-- [Ruiyuan GAO](https://gaoruiyuan.com/) (CUHK)
-- [Yunhao GOU](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN) (HKUST)
-- [Runhui HUANG](https://scholar.google.com/citations?user=B5zcj4wAAAAJ&hl=zh-CN) (HKU)
-- [Kaican LI](https://scholar.google.com/citations?hl=en&user=Mc-lzZMAAAAJ&view_op=list_works&sortby=pubdate) (HKUST)
-- [Zhili LIU](https://scholar.google.com/citations?user=FdR09jsAAAAJ&hl=zh-CN) (HKUST)
-- [Yingji ZHONG](https://github.com/zhongyingji) (HKUST)
+- [Kai CHEN]( https://kaichen1998.github.io/) (Hong Kong University of Science and Technology)
+- [Ruiyuan GAO](https://gaoruiyuan.com/) (The Chinese University of Hong Kong)
+- [Yunhao GOU](https://scholar.google.com/citations?user=RYDHIccAAAAJ&hl=zh-CN) (Hong Kong University of Science and Technology)
+- [Runhui HUANG](https://scholar.google.com/citations?user=B5zcj4wAAAAJ&hl=zh-CN) (The University of Hong Kong)
+- [Kaican LI](https://scholar.google.com/citations?hl=en&user=Mc-lzZMAAAAJ&view_op=list_works&sortby=pubdate) (Hong Kong University of Science and Technology)
+- [Zhili LIU](https://scholar.google.com/citations?user=FdR09jsAAAAJ&hl=zh-CN) (Hong Kong University of Science and Technology)
+- [Yingji ZHONG](https://github.com/zhongyingji) (Hong Kong University of Science and Technology)
 
 ## Former Interns
 - [Haoyue BAI](https://haoyuebaizju.github.io/) (University of Wisconsin-Madison)
 - [Shoukang HU](https://skhu101.github.io/) (Sony AI)
 - [Haonan WANG](https://charles-haonan-wang.me/) (National University of Singapore)
 - [Longhui YU]( https://yulonghui.github.io/) (Peking University)
-- [Xinyun ZHANG](https://yxgnahz.github.io/) (CUHK)
+- [Xinyun ZHANG](https://yxgnahz.github.io/) (The Chinese University of Hong Kong)
 - [Kaichen ZHOU](https://www.cs.ox.ac.uk/people/kaichen.zhou/) (University of Oxford)
