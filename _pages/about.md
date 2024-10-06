@@ -24,9 +24,9 @@ I am currently a senior researcher at Huawei Noah’s Ark Lab in Hong Kong, work
 My group focuses on building generalizable AI systems from a data-centric perspective. Our mission is to understand the power and limitations of existing models, explore their corner cases, and propose efficient next-generation models and algorithms. Representative projects include:
 
 - **Omi-modal Large Language Model**: [EMOVA](https://emova-ollm.github.io/)
-- **Alignment of LLMs and MLLMs**: [Mistake Analysis]( https://arxiv.org/abs/2310.10477), [CoSafe]( https://arxiv.org/abs/2406.17626), [ECSO]( https://gyhdog99.github.io/projects/ecso/)
-- **Corner Case Perception and Generation for Self-Driving**: [GeoDiffusion]( https://kaichen1998.github.io/projects/geodiffusion/), [MagicDrive]( https://gaoruiyuan.com/magicdrive/), [DetDiffusion]( https://arxiv.org/abs/2403.13304), [CODA]( https://coda-dataset.github.io/index.html)
-- **Generalization of Deep Learning Models**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning]( https://arxiv.org/abs/2104.12081), [MixedAE]( https://arxiv.org/abs/2303.17152), [MultiSiam](https://arxiv.org/abs/2108.12178)
+- **Alignment of LLMs and MLLMs**: [Mistake Analysis](https://arxiv.org/abs/2310.10477), [CoSafe](https://arxiv.org/abs/2406.17626), [ECSO](https://gyhdog99.github.io/projects/ecso/)
+- **Corner Case Perception and Generation for Self-Driving**: [GeoDiffusion](https://kaichen1998.github.io/projects/geodiffusion/), [MagicDrive](https://gaoruiyuan.com/magicdrive/), [CODA]( https://coda-dataset.github.io/index.html)
+- **Generalization of Deep Learning Models**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning](https://arxiv.org/abs/2104.12081), [MixedAE](https://arxiv.org/abs/2303.17152)
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 We have released [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech capabilities, further supporting emotional dialogue. Stay tuned for more details!
@@ -35,8 +35,8 @@ My group focuses on building generalizable AI systems from a data-centric perspe
 - *2024.09*: One paper accepted by EMNLP 2024!
 - *2024.08*: One paper accepted by COLM 2024!
 - *2024.07*: Two papers accepted by ECCV 2024!
+- *2024.06*: [MagicDrive](https://gaoruiyuan.com/magicdrive/), as a core feature of [Pangu Large Model 5.0](https://www.huaweicloud.com/news/2024/20240621000945888.html), was unveiled at Huawei Developer Conference 2024 ([HDC 2024](https://developer.huawei.com/home/en/hdc/hdc2024.html)).
 - *2024.02*: Two papers accepted by CVPR 2024!
-- *2024.02*: Code and checkpoints of [GeoDiffusion]( https://kaichen1998.github.io/projects/geodiffusion/) and [MagicDrive](https://gaoruiyuan.com/magicdrive/) have been released. Welcome to try!
 - *2024.01*: Three papers accepted by ICLR 2024! See you in Vienna!
 
 # ✨ Selected Projects
