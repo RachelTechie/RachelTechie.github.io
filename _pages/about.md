@@ -40,6 +40,11 @@ My group focuses on building generalizable AI systems from a data-centric perspe
 - *2024.01*: Three papers accepted by ICLR 2024! See you in Vienna!
 
 # ✨ Selected Projects
+## Omi-modal Large Language Model (2024)
+
+- Proposeed EMOVA, a novel end-to-end omni-modal LLM that can see, hear and speak. Weuseacontinuous vision encoder and a semantic-acoustic disentangled speech tokenizer for seamless omni-modal alignment and diverse speech style controllability. 
+- Introduced an efficient text-centric omni-modal alignment which can further improve the vision-language and speech capabilities, even compared with the corresponding bi-modal aligned counterparts (i.e., image-text only and speech-text only alignment). 
+- For the first time, EMOVA achieve state-of-the-art comparable performance on both the vision-language and speech benchmarks simultaneously, while supporting flexible spoken dialogues with vivid emotions.
 
 ## Alignment of LLMs and MLLMs (2023-2024)
 
