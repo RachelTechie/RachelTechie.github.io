@@ -29,13 +29,14 @@ My group focuses on building generalizable AI systems from a data-centric perspe
 - **Generalization of Deep Learning Models**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning](https://arxiv.org/abs/2104.12081), [MixedAE](https://arxiv.org/abs/2303.17152)
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 We have released [EMOVA](https://emova-ollm.github.io/), a novel end-to-end omni-modal model with SoTA vision-language and speech capabilities, further supporting emotional dialogue. Stay tuned for more details!
+- *2024.09*: &nbsp;🎉🎉 We have released [EMOVA](https://emova-ollm.github.io/), the very first end-to-end omni-modal model with SoTA vision-language and speech capabilities, further supporting emotional dialogue. Stay tuned for more details!
 - *2024.09*: We hosted the ECCV Workshop "Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving: Towards Next-Generation Solutions" ([W-CODA]( https://coda-dataset.github.io/w-coda2024/)) in Milan, Italy!
 - *2024.09*: Two papers accepted by NeurIPS 2024!
 - *2024.09*: One paper accepted by EMNLP 2024!
 - *2024.08*: One paper accepted by COLM 2024!
 - *2024.07*: Two papers accepted by ECCV 2024!
-- *2024.06*: &nbsp;🎉🎉 [MagicDrive](https://gaoruiyuan.com/magicdrive/), as a core feature of [PanGu Large Model 5.0](https://www.huaweicloud.com/news/2024/20240621000945888.html), was unveiled at Huawei Developer Conference 2024 ([HDC 2024](https://developer.huawei.com/home/en/hdc/hdc2024.html))! [[see details](https://gaoruiyuan.com/news/hdc2024/)]
+- *2024.06*: The First Autonomous Driving Corner Case Understanding and Video Generation Challenge is now open with generous prizes! We welcome your participation! [[see details](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247731805&idx=3&sn=42efdfe7a61815e587fc6bbd616a1fb9&chksm=e8dffd2fdfa8743999d79c0987ac0c5c9803edf9f56e68e352f90430c11367331bf0b0c20b76&mpshare=1&srcid=06039uOfS8AuQ7Y6u57gOuBt&sharer_shareinfo=3b59e83e43d9946643b072251e3471df&sharer_shareinfo_first=9147c2e65ae99733e78888aa3f435e1a&from=timeline&scene=2&subscene=2&clicktime=1728282882&enterid=1728282882&sessionid=0&ascene=45&fasttmpl_type=0&fasttmpl_fullversion=7404777-zh_CN-zip&fasttmpl_flag=0&realreporttime=1728282882465#rd)]
+- *2024.06*: &nbsp;🎉🎉 [MagicDrive](https://gaoruiyuan.com/magicdrive/), as a core video generation feature of [PanGu Large Model 5.0](https://www.huaweicloud.com/news/2024/20240621000945888.html), was unveiled at Huawei Developer Conference 2024 ([HDC 2024](https://developer.huawei.com/home/en/hdc/hdc2024.html))! [[see details](https://gaoruiyuan.com/news/hdc2024/)]
 - *2024.02*: Two papers accepted by CVPR 2024!
 - *2024.01*: Three papers accepted by ICLR 2024! See you in Vienna!
 
