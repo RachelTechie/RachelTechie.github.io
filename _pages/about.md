@@ -189,6 +189,7 @@ We are now recruiting self-motivated interns/full-time researchers. If you are i
 - [Haoyue BAI](https://haoyuebaizju.github.io/) (University of Wisconsin-Madison)
 - [Shoukang HU](https://skhu101.github.io/) (Sony AI)
 - [Haonan WANG](https://charles-haonan-wang.me/) (National University of Singapore)
+- [Shipeng YAN](https://yanshipeng.com/)(ByteDance)
 - [Longhui YU]( https://yulonghui.github.io/) (Peking University)
 - [Xinyun ZHANG](https://yxgnahz.github.io/) (The Chinese University of Hong Kong)
 - [Kaichen ZHOU](https://www.cs.ox.ac.uk/people/kaichen.zhou/) (University of Oxford)
