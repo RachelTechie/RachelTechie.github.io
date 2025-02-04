@@ -29,6 +29,9 @@ My group focuses on building generalizable AI systems from a data-centric perspe
 - **Generalization of Deep Learning Models**: [OOD-Bench](https://arxiv.org/abs/2106.03721), [Continual Self-Supervised Learning](https://arxiv.org/abs/2104.12081), [MixedAE](https://arxiv.org/abs/2303.17152)
 
 # 🔥 News
+- *2025.01*: One paper accepted by NAACL 2025!
+- *2025.01*: Two papers accepted by ICLR 2025!
+- *2024.10*: Two papers accepted by WACV 2025!
 - *2024.09*: &nbsp;🎉🎉 We have released [EMOVA](https://emova-ollm.github.io/), the very first end-to-end omni-modal model with SoTA vision-language and speech capabilities, further supporting emotional dialogue. Stay tuned for more details!
 - *2024.09*: We hosted the ECCV Workshop "Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving: Towards Next-Generation Solutions" ([W-CODA]( https://coda-dataset.github.io/w-coda2024/)) in Milan, Italy!
 - *2024.09*: Two papers accepted by NeurIPS 2024!
@@ -168,6 +171,7 @@ The full publication list can be found on [Google Scholar](https://scholar.googl
 [<span style="color:blue; text-decoration:underline;">Paper</span>](https://arxiv.org/pdf/2306.04607) [<span style="color:blue; text-decoration:underline;">Project</span>](https://kaichen1998.github.io/projects/geodiffusion/)
 
 # 🎖 Professional Services
+- Area Chair of [IJCAI 2025](https://2025.ijcai.org/)
 - Industrial Chair of [3DV 2025]( https://3dvconf.github.io/2025/people/)
 - Senior Program Committee Members of IJCAI [2023]( https://ijcai-23.org/spc-member-list/), 2024
 - Organizer of ECCV Workshop [W-CODA]( https://coda-dataset.github.io/w-coda2024/)
